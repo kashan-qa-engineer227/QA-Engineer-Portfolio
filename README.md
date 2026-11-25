@@ -11,18 +11,32 @@ I am a self-taught aspiring QA Engineer developing practical skills in manual te
 I am currently learning Software Quality Assurance and building hands-on projects to develop my testing and problem-solving abilities.
 
 ## Technical Skills
+ 
 
+
+### Software Testing
 - Manual Testing
 - Test Case Design
 - Test Scenario Creation
 - Bug Reporting
 - Functional Testing
 - Regression Testing
-- SQL Fundamentals
+
+### Web Development Fundamentals
+- HTML
+- CSS
+- Basic JavaScript
+- DOM Fundamentals
+
+### API & Database Testing
 - API Testing (Learning)
 - Postman (Learning)
-- Git and GitHub
+- SQL Fundamentals
 
+### Tools
+- Git and GitHub
+- Chrome DevTools (Learning)
+- 
 ## Projects
 
 ### 1. Manual Testing — Practice Software Testing
