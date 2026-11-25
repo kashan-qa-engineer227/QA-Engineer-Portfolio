@@ -72,4 +72,6 @@ Testing activities:
 ## Contact
 
 GitHub: https://github.com/kashan-qa-engineer227
+Gmail: kashanhyder557@gmail.com 
+WhatsApp: +923141276547
 
