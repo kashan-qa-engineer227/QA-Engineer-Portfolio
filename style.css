@@ -219,4 +219,69 @@ section.visible {
   transform: translateY(0);
 }
 
+/* Technical Skills Section */
+
+.skills-section {
+    text-align: center;
+}
+
+.section-tag {
+    color: #a6e875;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+
+.section-description {
+    color: #a4aaa5;
+    max-width: 550px;
+    margin: 15px auto 40px;
+    line-height: 1.7;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    text-align: left;
+}
+
+.skill-card {
+    background: #181d19;
+    border: 1px solid #29322b;
+    border-radius: 14px;
+    padding: 28px;
+    transition: 0.3s ease;
+}
+
+.skill-card:hover {
+    transform: translateY(-7px);
+    border-color: #a6e875;
+    background: #1d251e;
+}
+
+.skill-card h3 {
+    color: #f5f7f5;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.skill-card p {
+    color: #a4aaa5;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+@media (max-width: 650px) {
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .skill-card {
+        padding: 22px;
+    }
+}
+
+
   
